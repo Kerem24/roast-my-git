@@ -19,7 +19,7 @@ This is my first independent project after completing the Foundations curriculum
 * Dynamically creates and expands a result card in the DOM upon submission.
 * Randomly selects and displays a developer-themed roast from a predefined list.
 * Newbie animation implementation
-* 
+  
 ## Setup
 
 To run this project locally, clone or download the repository and open `index.html` in any modern web browser.
