@@ -1,6 +1,7 @@
-# Roast My Dev Ego
+# Roast My Github
 
 A simple web application that generates lighthearted, developer-themed roasts based on an entered name or GitHub handle.
+NOTE: This project doesn't contain any API background or a decent backend. Just mockup and hardcoded texts!
 
 ## About This Project
 
@@ -18,7 +19,7 @@ This is my first independent project after completing the Foundations curriculum
 * Dynamically creates and expands a result card in the DOM upon submission.
 * Randomly selects and displays a developer-themed roast from a predefined list.
 * Newbie animation implementation
-
+* 
 ## Setup
 
 To run this project locally, clone or download the repository and open `index.html` in any modern web browser.
