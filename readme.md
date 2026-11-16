@@ -1,7 +1,8 @@
 # Roast My Github
 
 A simple web application that generates lighthearted, developer-themed roasts based on an entered name or GitHub handle.
-NOTE: This project doesn't contain any API background or a decent backend. Just mockup and hardcoded texts!
+
+**NOTE:** This project doesn't contain any API background or a decent backend. Just mockup and hardcoded texts!
 
 ## About This Project
 
