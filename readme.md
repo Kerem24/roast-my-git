@@ -33,3 +33,5 @@ git clone https://github.com/Kerem24/roast-my-git
 
 * **Kerem** - [GitHub](https://github.com/Kerem24)
 * **Note from Kerem:** I struggled alot on expanding the container div after button executing so I found myself googling and a bit chatting with AI at some point. Though, I think for my first, it is a solid website!
+
+Live Preview:  https://kerem24.github.io/roast-my-git/
